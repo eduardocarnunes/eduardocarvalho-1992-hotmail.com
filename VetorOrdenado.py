@@ -30,7 +30,8 @@ class VetorOrdenado:
     def mostrar(self):
         for i in range(0, self.numeroElementos):
             print('{} - {}'.format(self.cidades[i].nome, self.cidades[i].distanciaObjetivo))
-            
+ 
+'''          
             
 from Mapa import Mapa
 mapa = Mapa()
@@ -41,3 +42,4 @@ vetor.inserir(mapa.balsaNova)
 vetor.mostrar()
 vetor.inserir(mapa.palmeira)
 
+'''
