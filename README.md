@@ -1,9 +1,15 @@
-# Course Intelligent Search Algorithms with Python
+# Applied AI with DeepLearning - IBM
 
 ### Course Description
-Problem-solving through search algorithms is an important branch of Artificial Intelligence, being responsible for several practical applications used in our daily lives, such as the mechanism to find the shortest route on a GPS device.
+This course, Applied Artificial Intelligence with DeepLearning, is part of the IBM Advanced Data Science Certificate which IBM is currently creating and gives you easy access to the invaluable insights into Deep Learning models used by experts in Natural Language Processing, Computer Vision, Time Series Analysis, and many other disciplines. We’ll learn about the fundamentals of Linear Algebra and Neural Networks. Then we introduce the most popular DeepLearning Frameworks like Keras, TensorFlow, PyTorch, DeepLearning4J and Apache SystemML. Keras and TensorFlow are making up the greatest portion of this course. We learn about Anomaly Detection, Time Series Forecasting, Image Recognition and Natural Language Processing by building up models using Keras on real-life examples from IoT (Internet of Things), Financial Marked Data, Literature or Image Databases. Finally, we learn how to scale those artificial brains using Kubernetes, Apache Spark and GPUs.
 
-This course has a theoretical and practical view of this area, applying all the concepts in a practical project that will aim to apply the algorithms to find the shortest route between two cities.  It used two approaches: the search without information and the search with information. The first does not have intelligence and is composed of the search algorithms in width and depth, while the second approach was implemented through the greedy search and A * search algorithms (A Estrela). This last algorithm is widely used in games and it was it that gave rise to the GPS (Global Position System) technology that we use a lot in our day to day! It was the Python language to implement the project, however, the source code can be easily ported to other languages.
+IMPORTANT: THIS COURSE ALONE IS NOT SUFFICIENT TO OBTAIN THE "IBM Watson IoT Certified Data Scientist certificate". You need to take three other courses where two of them are currently built. The Specialization will be ready late spring, early summer 2018
+
+Using these approaches, no matter what your skill levels in topics you would like to master, you can change your thinking and change your life. If you’re already an expert, this peep under the mental hood will give your ideas for turbocharging successful creation and deployment of DeepLearning models. If you’re struggling, you’ll see a structured treasure trove of practical techniques that walk you through what you need to do to get on track. If you’ve ever wanted to become better at anything, this course will help serve as your guide.
+
+Prerequisites: Some coding skills are necessary. Preferably python, but any other programming language will do fine. Also some basic understanding of math (linear algebra) is a plus, but we will cover that part in the first week as well.
+
+If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge.  To find out more about IBM digital badges follow the link ibm.biz/badging.
 
 ### What I have learned in the course:
   - I learned in theory and practice about search without information and search with information/heuristics
@@ -11,9 +17,9 @@ This course has a theoretical and practical view of this area, applying all the 
   - I learned step by step how to develop an algorithm to find the best route between cities
   
 
-### Requirements
-- Basic knowledge of programming logic 
-- Basic knowledge of Python is desirable
-- Basic knowledge of Object Orientation is desirable
-
+### Program
+- Introduction to deep learning 
+- DeepLearning Frameworks
+- DeepLearning Applications
+- Scaling and Deployment
 
